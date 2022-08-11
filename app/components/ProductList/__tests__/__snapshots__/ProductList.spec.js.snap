@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Ejercicio 1 - El componente ProductList 1) Renderiza 1`] = `
+<DocumentFragment>
+  <ul>
+    <li>
+      <h2>
+        Samsung Galaxy A03 128 Gb Negro 4 Gb Ram  || 
+      </h2>
+      <a
+        href="https://www.mercadolibre.com.ar/samsung-galaxy-a03-128-gb-negro-4-gb-ram/p/MLA18955028"
+      >
+        <img
+          lazyload="off"
+          src="http://http2.mlstatic.com/D_737913-MLA49433851234_032022-I.jpg"
+        />
+      </a>
+    </li>
+    <li>
+      <h2>
+        Motorola Edge 20 Lite 128 Gb Gris 6 Gb Ram  || 
+      </h2>
+      <a
+        href="https://www.mercadolibre.com.ar/motorola-edge-20-lite-128-gb-gris-6-gb-ram/p/MLA18495452"
+      >
+        <img
+          lazyload="off"
+          src="http://http2.mlstatic.com/D_833619-MLA48233725917_112021-I.jpg"
+        />
+      </a>
+    </li>
+    <li>
+      <h2>
+        Samsung Galaxy S20 Fe 128 Gb Cloud Navy 6 Gb Ram  || 
+      </h2>
+      <a
+        href="https://www.mercadolibre.com.ar/samsung-galaxy-s20-fe-128-gb-cloud-navy-6-gb-ram/p/MLA16211370"
+      >
+        <img
+          lazyload="off"
+          src="http://http2.mlstatic.com/D_995741-MLA47861036467_102021-I.jpg"
+        />
+      </a>
+    </li>
+    <li>
+      <h2>
+         Moto G22 128 Gb Cosmic Black 4 Gb Ram  || 
+      </h2>
+      <a
+        href="https://www.mercadolibre.com.ar/moto-g22-128-gb-cosmic-black-4-gb-ram/p/MLA19049553"
+      >
+        <img
+          lazyload="off"
+          src="http://http2.mlstatic.com/D_854793-MLA50262132804_062022-I.jpg"
+        />
+      </a>
+    </li>
+    <li>
+      <h2>
+        Samsung Galaxy A22 128 Gb Black 4 Gb Ram  || 
+      </h2>
+      <a
+        href="https://www.mercadolibre.com.ar/samsung-galaxy-a22-128-gb-black-4-gb-ram/p/MLA18329756"
+      >
+        <img
+          lazyload="off"
+          src="http://http2.mlstatic.com/D_774406-MLA47777566692_102021-I.jpg"
+        />
+      </a>
+    </li>
+    <li>
+      <h2>
+        Samsung Galaxy A32 128 Gb Awesome Black 4 Gb Ram  || 
+      </h2>
+      <a
+        href="https://www.mercadolibre.com.ar/samsung-galaxy-a32-128-gb-awesome-black-4-gb-ram/p/MLA17706115"
+      >
+        <img
+          lazyload="off"
+          src="http://http2.mlstatic.com/D_922219-MLA48428094384_122021-I.jpg"
+        />
+      </a>
+    </li>
+  </ul>
+</DocumentFragment>
+`;

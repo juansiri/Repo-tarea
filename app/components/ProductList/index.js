@@ -11,6 +11,10 @@
  **************************************************************
  * */
 
+ const ProductList = require('./ProductsList')
+
+ module.exports = ProductList;
+
 
 
 

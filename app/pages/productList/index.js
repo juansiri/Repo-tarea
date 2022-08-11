@@ -17,3 +17,12 @@
  * renderizar los productos, por el componente ProductList, pasándole
  * el array de productos por props.
  */
+
+ const router = require('nordic/ragnar').router()
+ const {render, fetchProducts} = require('./controller')
+ 
+ 
+ 
+ router.get('/', fetchProducts, render);
+ 
+ module.exports = router;
